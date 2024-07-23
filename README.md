@@ -9,6 +9,9 @@
 ## 🚀 프로젝트 기간
 > 2024.04.11 ~ 2024.04.19
 
+## 🚀 프로젝트 시연영상
+[시연영상](https://drive.google.com/file/d/1qTYqwszBN6l7er8qTDods5ysBB7PanoI/view?usp=drive_link)
+
 🔗 [택배 예약시스템_전민정.pdf](https://github.com/ekfrif0914/JsPostBox/blob/main/%ED%83%9D%EB%B0%B0%20%EC%98%88%EC%95%BD%EC%8B%9C%EC%8A%A4%ED%85%9C_%EC%A0%84%EB%AF%BC%EC%A0%95.pdf)
 
 ## 📋 프로젝트 개요
